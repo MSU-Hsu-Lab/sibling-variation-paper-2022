@@ -11,4 +11,4 @@ Access to the UK Biobank resource is available via application (http://www.ukbio
 GP datasets will not be made publicly available due to maintaining confidentiality of identifiable patient data.
 
 ### Results
-The 750k recombination events found using the UKB siblings are available for use by other researchers under this DropBox link https://www.dropbox.com/sh/ehpd98fgsz1ab1w/AACkcZpBHRNzqlE-MorQsJqea?dl=0.
+The ~1.44 million recombination events found using the UKB siblings are available for use by other researchers under this DropBox link https://www.dropbox.com/sh/ehpd98fgsz1ab1w/AACkcZpBHRNzqlE-MorQsJqea?dl=0.
